@@ -1,0 +1,85 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aperclub.com" resolutions="1x" timestamp="1498264163211">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="136386634" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u359.php" crc="204665907" ref="index"/>
+    <file name="form-u2160.php" crc="474749956" ref="index"/>
+    <file name="form-u2512.php" crc="451979383" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="53868f21958b30c42d095d1cb9f2c164jpg.gif" crc="4025377710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="softdev1.jpg" crc="4020253403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shodan-thepiratillateam-3.jpg" crc="3883732381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="world-digital-map.jpg" crc="3886197488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screencapture_3-8-2017 63027 pm_1.gif" crc="105876571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flag-map_of_the_worldsvg.png" crc="4269992845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screencapture_3-8-2017 62825 pm_1.gif" crc="81954261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u529-4.png" crc="4005562841" ref="index"/>
+    <file name="u518-16.png" crc="4104005727" ref="index"/>
+    <file name="u524-16.png" crc="4116435068" ref="index"/>
+    <file name="u539-6.png" crc="375290003" ref="index"/>
+    <file name="u544-6.png" crc="161634897" ref="index"/>
+    <file name="u549-6.png" crc="365355524" ref="index"/>
+    <file name="u554-6.png" crc="3917373995" ref="index"/>
+    <file name="u559-4.png" crc="4099849534" ref="index"/>
+    <file name="u569-4.png" crc="4076690229" ref="index"/>
+    <file name="tumblr_miqxhlye851rmjwluo1_500.gif" crc="110315175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u574-6.png" crc="291812686" ref="index"/>
+    <file name="u579-4.png" crc="479099722" ref="index"/>
+    <file name="u584-4.png" crc="43576286" ref="index"/>
+    <file name="screencapture_3-8-2017 63204 pm_1.gif" crc="469657667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="150424144250_modificacion_genetica_embriones_humanos_624x351_thinkstock.jpg" crc="3849618671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1455024605_474559_1455031061_noticiarelacionadaprincipal_normal.jpg" crc="282642440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satellite-view-of-earth-at-night.jpg" crc="4028233785" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fases-lunares-marihuana.jpg" crc="380170674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xcuzqd.gif" crc="33186280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="software_development.jpg" crc="270485617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="134476272" seo="true" mt="1498264078733" redirect="true"/>
+</manifest>
